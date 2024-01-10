@@ -15,9 +15,9 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
+  twitter_handle = "@dangrondahl"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
   showIntroContentOnHomepage = true
   showPostsOnHomepage = false
   usePaginationOnHomepage = false
@@ -52,17 +52,7 @@ pygmentsUseClasses = true
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "Blog"
-    identifier = "blog"
-    weight = 2
-    url = "/posts/"
-  [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 3
+    weight = 2
     url = "/About/"
-  [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    weight = 4
-    url = "/tags/"

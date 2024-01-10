@@ -1,10 +1,32 @@
 ---
 title: 'About'
-url: "/about/"
-image: images/about.jpg
+url: '/about/'
 ---
 
-## Contra vagos
+## Why a DevEx Manifesto?
+
+### A bit of history...
+
+The idea for the DevEx Manifesto came from being a consultant on a small enabler team.
+Our teams mission? To improve developer experience across the teams within their organization.
+
+Naturally we needed to both know and show the impact of our efforts.
+So early on we figured that measuring our own success in terms of the "products" we offered, somehow also meant that we needed to measure the teams using them.
+
+However, this wasn't the first time they tried to measure developer productivity though.
+Like many other companies, they had previously ventured into deploying [DORA](https://dora.dev/) metrics. The outcome? A lot of distrust and skepticism.
+
+This hardly came as a surprise. My experiences have shown that top-down implementations of metrics like DORA often stumble for several reasons: Metrics are sometimes perceived more as definitive answers rather than as curious prompts for further inquiry. Additionally, the comparison of teams and individuals frequently overlooks the substantial differences in their respective contexts and environments.
+
+So, even though the intentions were good, how could we reintroduce measures that may have lead to distrust earlier on? And how could we do so in a way that would not only be accepted, but embraced by the teams?
+
+The answer was to start with a set of principles that would guide our efforts and ensure that we would not only measure the right things, but also do so in the right way.
+
+### The DevEx Manifesto
+
+The DevEx Manifesto is a set of principles that we believe are essential to our collective success and the integrity of our work. We hold ourselves accountable to these standards, as they are the cornerstone of our progress and the measure of our achievements.
+
+Even more importantly, the DevEx Manifesto is a promise to developers that we will always strive to uphold these principles. Both from the team(s) implementing the measures, but all the way to leaders that is just as responsible for not misusing the data and thereby eroding the trust of the teams.
 
 Lorem _markdownum notam si_ lintea meque certa [en meumque
 illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.

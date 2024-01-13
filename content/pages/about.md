@@ -5,65 +5,64 @@ url: '/about/'
 
 ## Why a DevEx Manifesto?
 
+You might be wondering why yet another manifesto? Aren't there enough of those already? Well, yes and no.
+
 ### A bit of history...
 
-The idea for the DevEx Manifesto came from being a consultant on a small enabler team.
-Our teams mission? To improve developer experience across the teams within their organization.
+The inspiration for the DevEx Manifesto came from my discussions with various individuals in multiple IT organizations, encompassing a range of roles such as leaders, managers, developers, and others who act as catalysts for change, focusing on enhancing developer productivity and the overall developer experience.
 
-Naturally we needed to both know and show the impact of our efforts.
-So early on we figured that measuring our own success in terms of the "products" we offered, somehow also meant that we needed to measure the teams using them.
+Often, they express a shared goal which is to improve developer productivity as a way of achieving broader business and organizational objectives. These goals might include reducing lead times or lowering software operational costs, among others.
 
-However, this wasn't the first time they tried to measure developer productivity though.
-Like many other companies, they had previously ventured into deploying [DORA](https://dora.dev/) metrics. The outcome? A lot of distrust and skepticism.
+Such initiatives may come from leaders seeking to use metrics to track and evaluate the impact of e.g. a DevOps transformation. Alternatively, they might originate from enabling teams dedicated to improve the developer experience across teams, but don't know where to start.
 
-This hardly came as a surprise. My experiences have shown that top-down implementations of metrics like DORA often stumble for several reasons: Metrics are sometimes perceived more as definitive answers rather than as curious prompts for further inquiry. Additionally, the comparison of teams and individuals frequently overlooks the substantial differences in their respective contexts and environments.
+In either case, the question is often the same: How do we measure developer productivity?
+A common approach I've often witnessed is to pick a framework like DORA, and start with the four [DORA metrics](https://dora.dev/) as a good starting point. But is this really the best way to start?
 
-So, even though the intentions were good, how could we reintroduce measures that may have lead to distrust earlier on? And how could we do so in a way that would not only be accepted, but embraced by the teams?
+### The problem with starting with metrics
 
-The answer was to start with a set of principles that would guide our efforts and ensure that we would not only measure the right things, but also do so in the right way.
+I've seen many organizations try to measure developer productivity, and I've seen many of them fail. Why? Because they start out with metrics, and not with asking themselves and their developers how they define developer productivity.
+What does productivity mean to them? What does it mean to their teams? What does it mean to their organization?
 
-### The DevEx Manifesto
+When we don't start with asking these questions, we often end up with something that resembles data fishing. We start with the data, and then we try to find a story to fit the data. But this is a flawed approach, because it doesn't take into account the context and environment of the teams and individuals.
 
-The DevEx Manifesto is a set of principles that we believe are essential to our collective success and the integrity of our work. We hold ourselves accountable to these standards, as they are the cornerstone of our progress and the measure of our achievements.
+When metrics are used nakedly to compare teams and individuals, it often leads to a culture of competition, where teams and individuals are pitted against each other. This can lead to a culture of distrust and lead to a behavior of
+gaming the metrics, where teams and individuals are trying to optimize for the metrics, rather than improving daily work for themselves and their teams.
 
-Even more importantly, the DevEx Manifesto is a promise to developers that we will always strive to uphold these principles. Both from the team(s) implementing the measures, but all the way to leaders that is just as responsible for not misusing the data and thereby eroding the trust of the teams.
+So whether picking a quantitative or qualitative approach, it's important to start with sound principles and values. It's not any different from the [Agile Manifesto](https://agilemanifesto.org/): Start with principles and values, and then find the practices that fit your context.
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+That's how I came up with the idea of the DevEx Manifesto.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+### So what is it?
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+The DevEx Manifesto is a set of [values]({{< ref "/" >}}) and [principles]({{< ref "/principles" >}} "principles") that we believe are essential to our collective success and the integrity of our work. We hold ourselves accountable to these standards, as they are the cornerstone of our progress and the measure of our achievements.
 
-## Ducem oculos pallor tale quoque
+Even more importantly, the DevEx Manifesto is a promise to developers that we will always strive to uphold these. Both from the team(s) implementing the measures, but all the way to leaders that is just as responsible for not misusing the data and thereby eroding the trust of the teams.
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+Therefore, should you choose to adopt the DevEx Manifesto, make sure to communicate it to the teams, and make sure to hold yourself accountable to it. Have leaders sign off
+on it, so everyone knows that they are also committed to upholding it.
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
+## Please contribute :pray:
 
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
+Now, I unfortunately didn't have the luxury to meet up with thought leaders in the Wasatch mountains of Utah, like the authors of the [Agile Manifesto](https://agilemanifesto.org/history.html) did. But in the days of GitHub, we don't need to.
 
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+The DevEx Manifesto is a living set of values and principles. It's not a static document, and hopefully it will evolve over time. This is why it's versioned.
+
+My naive hope is that the DevEx Manifesto eventually will become a community-driven document. It is only as good as the people who contribute to it, and the people who use it.
+
+As we learn more about developer experience, I will update the DevEx Manifesto accordingly. Therefore, I encourage you to contribute to the DevEx Manifesto by either opening an issuesubmitting a pull request on this repository: https://github.com/dangrondahl/dangrondahl.github.io
+
+## About me
+
+[![Dan](/images/author-small.jpg)](/images/author.jpg)
+
+### Hi there, I'm Dan :wave:
+
+I work as a DevOps consultant, helping teams and organizations build internal developer platforms and improve their developer experience, for the benefit of both the teams and the business.
+
+I believe that happy developers are productive developers and vice versa. I also believe that the best way to improve developer experience is to involve the developers themselves in the process.
+
+This has been my guiding principle in my work with developer experience, and it's also the reason why I created the DevEx Manifesto.
+
+My thoughts and mental models have been shaped by people within the industry I truly admire for their contributions. People like Matthew Skelton and Manual Pais, Nicole Forsgren, Simon Wardley, and last but not least, my very good friend Johan Abildskov. The list goes on, and I'm grateful for all the people who have inspired me.
+
+If you want to know more about me, you can find me on [LinkedIn](https://www.linkedin.com/in/dangrondahl/) and [Twitter](https://twitter.com/dangrondahl).

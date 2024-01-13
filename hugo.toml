@@ -1,12 +1,13 @@
-baseURL = "https://devexmanifesto.org"
+baseURL = "https://devexmanifesto.org/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "The DevEx Manifesto"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+enableEmoji = true
 
 [module]
   [module.hugoVersion]
@@ -15,9 +16,9 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
+  twitter_handle = "@dangrondahl"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
   showIntroContentOnHomepage = true
   showPostsOnHomepage = false
   usePaginationOnHomepage = false
@@ -45,24 +46,24 @@ pygmentsUseClasses = true
       unsafe = true
       xhtml = false
 
-[menu]
+[menus]
   [[menu.main]]
     identifier = 'home'
     name = 'Home'
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "Blog"
-    identifier = "blog"
+    name = "Principles"
+    identifier = "principles"
     weight = 2
-    url = "/posts/"
+    url = "/Principles/"
   [[menu.main]]
     name = "About"
     identifier = "about"
     weight = 3
     url = "/About/"
   [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
+    name = "Author"
+    identifier = "author"
     weight = 4
-    url = "/tags/"
+    url = "/Author/"

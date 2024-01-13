@@ -1,12 +1,13 @@
-baseURL = "https://devexmanifesto.org"
+baseURL = "https://devexmanifesto.org/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "The DevEx Manifesto"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+enableEmoji = true
 
 [module]
   [module.hugoVersion]
@@ -45,14 +46,24 @@ pygmentsUseClasses = true
       unsafe = true
       xhtml = false
 
-[menu]
+[menus]
   [[menu.main]]
     identifier = 'home'
     name = 'Home'
     url = '/'
     weight = 1
   [[menu.main]]
+    name = "Principles"
+    identifier = "principles"
+    weight = 2
+    url = "/Principles/"
+  [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 2
+    weight = 3
     url = "/About/"
+  [[menu.main]]
+    name = "Author"
+    identifier = "author"
+    weight = 4
+    url = "/Author/"

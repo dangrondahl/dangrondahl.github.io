@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://devexmanifesto.org"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"

@@ -2,7 +2,7 @@
 title: The DevEx Manifesto
 ---
 
-`Version: 1.0.0`
+`Version: 0.1.0`
 
 _In our quest to measure and improve developer experience, we've come to understand that the true value lies not in the metrics themselves, but the questions they raise and the conversations they spark._
 

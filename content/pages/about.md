@@ -49,4 +49,4 @@ The DevEx Manifesto is a living set of values and principles. It's not a static 
 
 My naive hope is that the DevEx Manifesto eventually will become a community-driven document. It is only as good as the people who contribute to it, and the people who use it.
 
-As we learn more about developer experience, I will update the DevEx Manifesto accordingly. Therefore, I encourage you to contribute to the DevEx Manifesto by either opening an issuesubmitting a pull request on [GitHub](https://github.com/dangrondahl/dangrondahl.github.io)
+As we learn more about developer experience, I will update the DevEx Manifesto accordingly. Therefore, I encourage you to contribute to the DevEx Manifesto by either opening an issue or submitting a pull request on [GitHub](https://github.com/dangrondahl/dangrondahl.github.io)

@@ -5,7 +5,9 @@ url: '/about/'
 
 ## Why a DevEx Manifesto?
 
-You might be wondering why yet another manifesto? Aren't there enough of those already? Well, yes and no.
+DevEx is a broad term that may refer to many topics and capabilities, more than what in scope here.
+
+The DevEx Manifesto is specifically focused on defining principles and values for measuring and improving developer productivity and the overall developer experience.
 
 ### A bit of history...
 

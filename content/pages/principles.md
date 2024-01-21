@@ -10,21 +10,17 @@ _We choose to follow these principles, to be transparent about our practices, an
 
 By openly communicating our methods and intentions behind all data collection and feedback processes.
 
-## > We value developer input and collaboration
+## > We regard developer input as fundamental in collaboration
 
-In shaping the tools, processes, and environment that directly affect their work and well-being.
+In shaping tools, processes, and the work environment, we consider developer input essential, as it directly influences the perceived ease of software delivery. Our collaborative approach aims to refine these aspects, enhancing not just efficiency but also making software development more intuitive and satisfying for our developers.
 
 ## > We pledge to using metrics as a mirror, not a judge
 
-To reflect on our collective practices and identify opportunities for improvement rather than individual performance.
+To reflect on our collective practices and identify opportunities for improvement, we use metrics as insightful guides. This enables us to evolve our workflows and enhance overall productivity, fostering a culture of continuous development and learning at the team and organizational level.
 
-## > We recognize the importance of balance
+## > We emphasize team-centric productivity metrics
 
-By acknowledging that metrics provide a limited perspective and must be complemented with personal insights and context.
-
-## > We safeguard privacy and confidentiality
-
-With the utmost care, ensuring that feedback and data cannot and will not be used to single out any individual.
+We balance individual and team productivity, emphasizing a team-first approach in our feedback and data practices. While recognizing each individual's contributions, we prioritize the team as the fundamental unit of delivery, ensuring that our measures reflect and support this perspective.
 
 ## > We embrace a culture of continuous improvement
 
@@ -37,6 +33,10 @@ And strive to provide a seamless development experience, helping developers focu
 ## > We strive for a balanced ecosystem
 
 Where commonalities across teams are nurtured to foster collaboration and efficiency, while also supporting the diverse needs and workflows of our developers, promoting flexibility and customization.
+
+## > We dismiss the 'one-metric' approach
+
+Understanding that no single metric can fully capture the multifaceted nature of development work. By combining diverse metrics with contextual understanding, we aim to provide a comprehensive view that respects the complexity of software development. This approach ensures a more accurate and holistic assessment of productivity, avoiding overreliance on any single measure.
 
 ## > We acknowledge and respect Goodhart’s Law
 

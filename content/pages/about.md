@@ -5,34 +5,65 @@ url: '/about/'
 
 ## Why a DevEx Manifesto?
 
-DevEx is a broad term that may refer to many topics and capabilities, more than what in scope here.
+First a small disclaimer: DevEx is a broad term that may refer to many topics and capabilities, more than what in scope here.
 
-The DevEx Manifesto is specifically focused on defining principles and values for measuring and improving developer productivity and the overall developer experience.
+In my time working on platform engineering and developer experience (DevEx), I've realized something important: we need a solid set of principles for measuring developer productivity and enhancing the overall developer experience. It's become clear to me that:
+
+> Measuring developer productivity across teams requires high levels of **trust** and **transparency**.
+
+That's what led me to create the DevEx Manifesto. It's a way to bring these values front and center in our industry.
 
 ### A bit of history...
 
-The inspiration for the DevEx Manifesto came from my discussions with various individuals in multiple IT organizations, encompassing a range of roles such as leaders, managers, developers, and others who act as catalysts for change, focusing on enhancing developer productivity and the overall developer experience.
+My journey to creating the DevEx Manifesto started with countless conversations with some really sharp minds in IT - leaders, managers, developers, and those driving change. We all shared a common goal: To boost developer productivity and the overall experience of developers.
 
-Often, they express a shared goal which is to improve developer productivity as a way of achieving broader business and organizational objectives. These goals might include reducing lead times or lowering software operational costs, among others.
+A lot of these discussions circled back to how improving developer productivity isn’t just a nice-to-have, but it’s key for hitting broader business or organizational goals. Think about cutting down lead times or reducing the costs of running software.
 
-Such initiatives may come from leaders seeking to use metrics to track and evaluate the impact of e.g. a DevOps transformation. Alternatively, they might originate from enabling teams dedicated to improve the developer experience across teams, but don't know where to start.
+To hit these targets, I noticed a pattern: they were all leaning heavily on metrics to track progress and measure the impact of their initiatives. This could be a leader trying to figure out the real impact of a DevOps transformation or an enablement team using these metrics to steer their efforts in making life easier for developers across different teams.
 
-In either case, the question is often the same: How do we measure developer productivity?
-A common approach I've often witnessed is to pick a framework like DORA, and start with the four [DORA metrics](https://dora.dev/) as a good starting point. But is this really the best way to start?
+But whether it's a leader or a team, the big question that keeps popping up is:
 
-### The problem with starting with metrics
+> How do we actually measure developer productivity?
 
-I've seen many organizations try to measure developer productivity, and I've seen many of them fail. Why? Because they start out with metrics, and not with asking themselves and their developers how they define developer productivity.
-What does productivity mean to them? What does it mean to their teams? What does it mean to their organization?
+I've seen a lot of leaders get jazzed up after reading ["Accelerate"](https://en.wikipedia.org/wiki/Accelerate_(book)) or checking out the State of DevOps reports. It's like they've found the holy grail in the [DORA metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance), which are often seen as the go-to indicators for performance. Let's take a quick look at what these metrics are:
 
-When we don't start with asking these questions, we often end up with something that resembles data fishing. We start with the data, and then we try to find a story to fit the data. But this is a flawed approach, because it doesn't take into account the context and environment of the teams and individuals.
+* **Deployment Frequency** - How often an organization successfully releases to production
+* **Lead Time for Changes** - The time it takes from making a commit to getting it to production
+* **Change Failure Rate** - The percentage of deployments causing a failure in production
+* **Time to Restore Service** - How long it takes to recover from a failure in production
 
-When metrics are used nakedly to compare teams and individuals, it often leads to a culture of competition, where teams and individuals are pitted against each other. This can lead to a culture of distrust and lead to a behavior of
-gaming the metrics, where teams and individuals are trying to optimize for the metrics, rather than improving daily work for themselves and their teams.
+Now, these metrics are solid, I'm not advocating against them. They’re valuable and can tell you a lot, but only if you use them right. I've seen too many cases where these metrics just lead teams down the wrong path. Why's that? Because they’re not being used thoughtfully or with a healthy dose of curiosity with what they'll provide.
 
-So whether picking a quantitative or qualitative approach, it's important to start with sound principles and values. It's not any different from the [Agile Manifesto](https://agilemanifesto.org/): Start with principles and values, and then find the practices that fit your organizations capabilities and context.
+There are newer, more holistic ways to look at developer productivity, like the [SPACE framework](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) or the [DX framework](https://getdx.com/research/conceptual-framework-for-developer-experience/). But here's the thing - is picking a framework or a set of metrics really the best place to start?
 
-That's how I came up with the idea of the DevEx Manifesto.
+### The Pitfall of Metrics-First Approach
+
+Here's the catch with starting with metrics – like focusing solely on Deployment Frequency. We often forget to ask the crucial question: What’s our end goal here? Laura Tacho, CTO at [DX](https://getdx.com), hits the nail on the head with this question:
+
+> What decisions will these metrics help us make?
+
+If we skip this question at the beginning, we're basically just fishing for data. We grab numbers and then scramble to build a story around them. But that's backward, right? It misses the whole context of our organization, our teams, and the people in them.
+
+And there’s a real danger when we use these metrics nakedly to directly compare teams or individuals. It breeds a kind of unhealthy competition. It's like saying, “Hey, let's see who can jump the highest,” without caring why we're jumping in the first place. This can erode trust big time. Teams start playing the system, focusing on looking good according to the metrics instead of actually making their day-to-day work better.
+
+Think about it – metrics can always be gamed pretty easily if they start feeling like a threat.
+
+So, whether you're going for a numbers-driven approach, a more qualitative one, or a mix of both, the key is to ground your approach in solid values and principles. It’s kind of like the [Agile Manifesto](https://agilemanifesto.org/) – you start with the core principles and values, and then you pick the methods that align with your organization's goals, abilities, and situation.
+
+### Unveiling The DevEx Manifesto
+
+So, what exactly is the DevEx Manifesto? Well, it's more than just a list; it's a collection of [principles]({{< ref "/principles" >}} "principles") and [values]({{< ref "/" >}}) that I believe are critical to measuring developer productivity in a way that's fair and meaningful.
+
+I've put together something like this, and it's really about setting a clear and transparent foundation for how we approach this whole thing:
+
+> By embracing these principles, we're not just agreeing to a set of rules. We're making a commitment. It's about holding ourselves to a standard that shapes our progress and becomes the benchmark for our achievements. More importantly, it's a promise to every developer who plays a part in this – a pledge that we're dedicated to upholding these values consistently.
+
+If the DevEx Manifesto strikes a chord with you and you're thinking of adopting it – or even just parts of it that fit your needs – here are a couple of key tips:
+
+1. Make sure to communicate them broadly, both to your teams and stakeholders.
+2. Have leaders sign off on them. The higher, the better.
+
+Together these two points creates a good starting point for holding ourselves  accountability and responsibility. But remember, it's the ongoing commitment to these values and principles that really builds and maintains trust.
 
 ### So what is it?
 
@@ -45,10 +76,10 @@ on it, so everyone knows that they are also committed to upholding it.
 
 ## Please contribute :pray:
 
-Now, I unfortunately didn't have the luxury to meet up with thought leaders in the Wasatch mountains of Utah, like the authors of the [Agile Manifesto](https://agilemanifesto.org/history.html) did. But in the days of GitHub, we don't need to.
+Now, I didn’t get to brainstorm with top minds in the Wasatch mountains of Utah like the [Agile Manifesto](https://agilemanifesto.org/history.html) folks did. But hey, it’s the era of GitHub – who needs mountains when you've got the cloud, right?
 
-The DevEx Manifesto is a living set of values and principles. It's not a static document, and hopefully it will evolve over time. This is why it's versioned.
+The DevEx Manifesto isn't just a bunch of ideas on paper; it’s a living, breathing set of values and principles. It’s meant to evolve, to grow with our understanding, which is why I'm keeping it versioned.
 
-My naive hope is that the DevEx Manifesto eventually will become a community-driven document. It is only as good as the people who contribute to it, and the people who use it.
+I've got this hope – maybe a bit naive, but a hope nonetheless – that the DevEx Manifesto will turn into something driven by our community. It's only as strong and meaningful as the contributions and insights we all bring to it, and how we put it into practice.
 
-As we learn more about developer experience, I will update the DevEx Manifesto accordingly. Therefore, I encourage you to contribute to the DevEx Manifesto by either opening an issue or submitting a pull request on [GitHub](https://github.com/dangrondahl/dangrondahl.github.io)
+As our grasp of developer experience deepens, so will the Manifesto. That’s why I’m all for collaboration and input. Got an idea? A suggestion? Jump onto [GitHub](https://github.com/dangrondahl/dangrondahl.github.io) and let’s make it better together. Open an issue or a Pull Request – every bit of input is a step towards shaping a manifesto that truly reflects our collective wisdom and experience.

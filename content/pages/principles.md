@@ -10,9 +10,9 @@ _We choose to follow these principles, to be transparent about our practices, an
 
 By openly communicating our methods and intentions behind all data collection and feedback processes.
 
-## > We value developer input and collaboration
+## > We regard developer input as fundamental in collaboration
 
-In shaping the tools, processes, and environment that directly affect their work and well-being.
+In shaping tools, processes, and the work environment, we consider developer input essential, as it directly influences the perceived ease of software delivery. Our collaborative approach aims to refine these aspects, enhancing not just efficiency but also making software development more intuitive and satisfying for our developers.
 
 ## > We pledge to using metrics as a mirror, not a judge
 

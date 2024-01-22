@@ -8,7 +8,7 @@ _We choose to follow these principles, to be transparent about our practices, an
 
 ## > We prioritize trust and transparency
 
-By openly communicating our methods and intentions behind all data collection and feedback processes.
+We openly communicating our methods and intentions behind all data collection and feedback processes. This builds trust.
 
 ## > We regard developer input as fundamental in collaboration
 
@@ -28,7 +28,7 @@ Where feedback leads to action, and actions are regularly reviewed and refined.
 
 ## > We advocate for minimal tool sprawl
 
-And strive to provide a seamless development experience, helping developers focus on their craft rather than on unnecessary complexity.
+We strive to provide a seamless development experience, helping developers focus on their craft rather than on unnecessary complexity.
 
 ## > We strive for a balanced ecosystem
 
@@ -36,7 +36,7 @@ Where commonalities across teams are nurtured to foster collaboration and effici
 
 ## > We dismiss the 'one-metric' approach
 
-Understanding that no single metric can fully capture the multifaceted nature of development work. By combining diverse metrics with contextual understanding, we aim to provide a comprehensive view that respects the complexity of software development. This approach ensures a more accurate and holistic assessment of productivity, avoiding overreliance on any single measure.
+We appreciate that no single metric can fully capture the multifaceted nature of development work. By combining diverse metrics with contextual understanding, we aim to provide a comprehensive view that respects the complexity of software development. This approach ensures a more accurate and holistic assessment of productivity, avoiding overreliance on any single measure.
 
 ## > We acknowledge and respect Goodhart’s Law
 

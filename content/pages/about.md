@@ -38,14 +38,15 @@ There are newer, more holistic ways to look at developer productivity, like the 
 
 ### The Pitfall of Metrics-First Approach
 
-Here's the catch with starting with metrics – like focusing solely on Deployment Frequency. We often forget to ask the crucial question: What’s our end goal here? Laura Tacho, CTO at [DX](https://getdx.com), hits the nail on the head with this question:
+Here's the catch with starting with metrics – like focusing solely on Deployment Frequency. We often forget to ask some crucial questions: What’s our end goal here? Why are we measuring this in the first place? And what are we going to do with the data?
+Laura Tacho, CTO at [DX](https://getdx.com), hits the nail on the head with this question:
 
 > What decisions will these metrics help us make?
 
 If we skip this question at the beginning, we're basically just fishing for data. We grab numbers and then scramble to build a story around them. But that's backward, right? It misses the whole context of our organization, our teams, and the people in them.
 
 And there’s a real danger when we use these metrics nakedly to directly compare teams or individuals. It breeds a kind of unhealthy competition. It's like saying, “Hey, let's see who can jump the highest,” without caring why we're jumping in the first place. This erodes trust big time. Teams start gaming the system, focusing on looking good according to the metrics instead of making their day-to-day work better.
-
+ 
 Metrics can always be gamed pretty easily if they start feeling like a threat.
 
 So, whether you're going for a numbers-driven approach, a more qualitative one, or a mix of both, the key is to ground your approach in solid values and principles. It’s kind of like the [Agile Manifesto](https://agilemanifesto.org/) – you start with the core principles and values, and then you pick the methods that align with your organization's goals, abilities, and situation.
@@ -64,10 +65,6 @@ If the DevEx Manifesto strikes a chord with you and you're thinking of adopting 
 2. Have leaders explicitly sign off on them. The higher, the better.
 
 Together, these two points creates a good starting point for holding ourselves accountable and responsible. But remember, it's the ongoing commitment to these values and principles that really builds and maintains trust.
-
-Even more importantly, the DevEx Manifesto is a promise to developers that we will always strive to uphold these. Both from the team(s) implementing the measures, but all the way to leaders that is just as responsible for not misusing the data and thereby eroding the trust of the teams.
-
-We hold ourselves accountable to these standards, as they are the cornerstone of our progress and the measure of our achievements.
 
 ## Please contribute :pray:
 

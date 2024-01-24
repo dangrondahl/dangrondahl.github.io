@@ -4,8 +4,10 @@ url: '/principles/'
 date: 2024-01-11T09:37:05+01:00
 ---
 
-_We choose to follow these principles, to be transparent about our practices, and to hold ourselves accountable to these standards._
+In our effort to assess and improve developer productivity and experience, we are guided by the following principles, to make fair and empathetic decisions.</br>
+As leaders or peers e.g. within enabling teams, we commit to these principles for transparency and accountability. Without trust from our developers, our best intentions and efforts will be in vain.
 
+# Principles
 ## > We prioritize trust and transparency
 
 We openly communicating our methods and intentions behind all data collection and feedback processes. This builds trust.

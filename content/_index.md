@@ -4,7 +4,7 @@ title: The DevEx Manifesto
 
 `Version: 1.0.0`
 
-### In our effort to assess and improve developer productivity and experience, </br>we've come to understand
+**In our effort to assess and improve developer productivity and experience, </br>we've come to understand:**
 
 That the use of metrics and performance indicators are tools, never the final goal.
 
@@ -12,7 +12,7 @@ That metrics may be useful for gauging progress towards goals we want to achieve
 
 That metrics, when distrusted, are always susceptible to manipulation, and when misunderstood, they are prone to misuse.
 
-That, in the interaction between people and technology, the success of using metrics comes down to two key elements: **Trust** and **Transparency**.
+That the success of using metrics comes down to two key elements:</br>**Trust** and **Transparency**.
 
 ## We value
 

@@ -16,4 +16,4 @@ If you want to connect, reach out to me on [LinkedIn](https://www.linkedin.com/i
 
 ## Inspiration 
 
-My thoughts and mental models have been shaped by people within the industry I truly admire for their contributions. People like Matthew Skelton and Manual Pais, Dr. Nicole Forsgren, John Cutler, Abi Noda, Gergely Orosz and last but not least, my good friend Johan Abildskov that have acted as a mentor for me in our common passion for DevOps and software development in general. The list goes on, and I'm grateful for all the people who have inspired me. :pray:
+I am deeply influenced by thought leaders I admire, such as Matthew Skelton, Manuel Pais, Dr. Nicole Forsgren, John Cutler, Abi Noda, Gergely Orosz, and Johan Abildskov, who has often mentored me in our shared passion for DevOps and software development. The list is long... I'm grateful to everyone who has inspired me in this journey. 🙏

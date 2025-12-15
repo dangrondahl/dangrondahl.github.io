@@ -6,7 +6,7 @@ image: images/author-small.jpg
 
 ## Hi there, I'm Dan :wave:
 
-I work as a Platform Owner at [VELUX](https://www.velux.com/), building an internal developer platform aiming to increase the developer experience for the platform, for the benefit of both developers and the business. :rocket:
+I work as a Forward Deployed Engineer at [Kosli](https://kosli.com/), helping regulated industries to automate compliance. :rocket:
 
 I believe that happy developers are productive developers and vice versa. I also believe that the best way to improve developer experience is to look at the capabilities of the organization as a whole, and involve the developers themselves in the process.
 
